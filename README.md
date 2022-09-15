@@ -1,3 +1,8 @@
+# Las diapositivas del curso las puedes descargar en
+---
+https://reinscom.com.mx/resources/curso-itvh/Vuejs-manejo-de-estados-con-VUEX.pdf
+---
+
 # tienda-en-linea
 
 ## Project setup
